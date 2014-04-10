@@ -1,0 +1,20 @@
+{
+  "name": "koa-mongo",
+  "version": "0.0.1",
+  "description": "koa mongo demo",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "~0.5.3",
+    "koa-route": "^1.1.1",
+    "koa-middlewares": "~0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "mdemo",
+  "license": "ISC"
+}
